@@ -45,7 +45,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun miBoton(){
     Button(onClick = {}) {
-        Text("Presioname")
+        Text("Presiona")
     }
 }
 
